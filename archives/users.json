@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "points": 0,
+      "loyalty_cards_id": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "user_id": 2,
+      "points": 0,
+      "loyalty_cards_id": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+}

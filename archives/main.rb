@@ -24,7 +24,7 @@ if options[:loyalty_card_id]
   result[:loyalty_card] = {
     id: 1,
     name: 'Carrefour',
-    total_points: 56
+    total_points: 922
   }
 end
 
