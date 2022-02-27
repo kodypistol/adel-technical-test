@@ -1,11 +1,13 @@
 {
   "name": "eenov-test-adelsanaa",
   "version": "1.0.0",
-  "description": "- Installes ruby sur ton pc - Lances `ruby main.rb --loyalty_card_id=1 --user_id=5` pour tester l'algorithme ruby : `main.rb`",
-  "main": "index.js",
+  "description": "Adel Sanaa technical test",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-json-modules app.js"
   },
+  "type": "module",
   "author": "Adel Sanaa",
   "license": "ISC"
 }

@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"name": "Carrefour",
+		"brandPoints": 56
+	},
+	{
+		"id": 2,
+		"name": "Leclerc",
+		"brandPoints": 134
+	},
+	{
+		"id": 3,
+		"name": "MacDo",
+		"brandPoints": 169
+	},
+	{
+		"id": 4,
+		"name": "Fnac",
+		"brandPoints": 230
+	},
+	{
+		"id": 5,
+		"name": "Subway",
+		"brandPoints": 134
+	},
+	{
+		"id": 6,
+		"name": "KFC",
+		"brandPoints": 21
+	}
+]

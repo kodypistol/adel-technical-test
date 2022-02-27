@@ -4,7 +4,8 @@
     { "id": 2, "name": "Leclerc" },
     { "id": 3, "name": "MacDo" },
     { "id": 4, "name": "Fnac" },
-    { "id": 5, "name": "Subway" }
+    { "id": 5, "name": "Subway" },
+    { "id": 6, "name": "KFC" }
   ],
   "rewards": [
     { "user_id": 5, "points": 12, "loyalty_card_id": 1 },
@@ -25,6 +26,7 @@
     { "user_id": 1, "points": 41, "loyalty_card_id": 4 },
     { "user_id": 1, "points": 12, "loyalty_card_id": 4 },
     { "user_id": 2, "points": 12, "loyalty_card_id": 3 },
-    { "user_id": 3, "points": 11, "loyalty_card_id": 4 }
+    { "user_id": 3, "points": 11, "loyalty_card_id": 4 },
+    { "user_id": 7, "points": 21, "loyalty_card_id": 6 }
   ]
 }
