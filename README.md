@@ -22,7 +22,7 @@ Ensuite, **rendez-vous dans le dossier DB** où deux fichiers différents ont é
 
 - Le fichier `brands.json` contient des informations sur chacune des enseignes : leur nombre de points cumulés, leur id et leur nom.
 
-##ℹ️ Quelques informations sur la structure du projet
+## ℹ️ Quelques informations sur la structure du projet
 Le projet a été réalisé sans lib/package (mis à part 'fs').
 
 J'ai organisé le projet à la manière dont j'ai appris à organiser mes projets il y a peu de temps. 
