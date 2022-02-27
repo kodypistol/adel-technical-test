@@ -5,14 +5,14 @@ Bonjour et bienvenue dans mon environnement de travail ! :)
 
 Je vous propose de découvrir la première version de ce que j'ai pu produire pour ce test technique. Je reste évidemment disponible pour toute demande d'information à mon adresse e-mail ou par téléphone (cf: en bas!).
 
-##💻 Mise en place du projet
+## 💻 Mise en place du projet
 ###1. Installation
 Tout d'abord, il vous faut installer le projet sur votre machine. Ouvrez votre terminal et tapez dans l'ordre :
 - `mkdir adelsanaa-test`
 - `cd adelsanaa-test`
 - `git clone https://github.com/kodypistol/adel-technical-test.git`
 
-###2. Démarrer le projet
+### 2. Démarrer le projet
 Il vous suffit d'utiliser la commande suivante :
 - `npm start`
 
@@ -31,12 +31,12 @@ Ce router s'occupe d'initialiser les managers `usersManager.js` et `brandsManage
 
 Chacun d'entre eux s'occupent respectivement des datas des clients et des enseignes. Grâce aux données entrées dans le fichier `inputs/input.json`, ces managers vont distribuer correctement les données et les entrer dans un nouveau fichier qui seront présents dans le dossier `/db`.
 
-##✅ Ce que j'ai réussi à faire
+## ✅ Ce que j'ai réussi à faire
 - Créer un algorithme qui calcule le _nombre de points de fidélité total d'un utilisateur dans toutes les enseignes cumulées_ et qui l'assigne à un objet.
 - Créer un algorithme qui calcule le _nombre de points de fidélité total des différentes enseignes_ et qui l'assigne à un objet.
 - Répartir les données dans deux fichier .json distincts.
 
-##❌ Ce que je n'ai pas (encore) réussi à faire
+## ❌ Ce que je n'ai pas (encore) réussi à faire
 - Créer une commande permettant de choisir le nombre d'utilisateurs et quelles données nous voulons afficher en console.
 - Trouver une alternative plus propre et automatisée aux switchs et respectant le "DRY" (Don't Repeat Yourself)
 - Le programme dépend encore du nombre d'utilisateurs que je lui passe en paramètre dans le `userManager.js` et de ce que je traite dans le `switch`.
