@@ -6,7 +6,7 @@ Bonjour et bienvenue dans mon environnement de travail ! :)
 Je vous propose de découvrir la première version de ce que j'ai pu produire pour ce test technique. Je reste évidemment disponible pour toute demande d'information à mon adresse e-mail ou par téléphone (cf: en bas!).
 
 ## 💻 Mise en place du projet
-###1. Installation
+### 1. Installation
 Tout d'abord, il vous faut installer le projet sur votre machine. Ouvrez votre terminal et tapez dans l'ordre :
 - `mkdir adelsanaa-test`
 - `cd adelsanaa-test`
