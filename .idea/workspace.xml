@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bd856236-96e2-4dd2-8ea1-69b25fef3315" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives/oldalgorithms.js" beforeDir="false" afterPath="$PROJECT_DIR$/archives/oldalgorithms.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inputs/input.json" beforeDir="false" afterPath="$PROJECT_DIR$/inputs/input.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/managers/brandsManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/managers/brandsManager.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/managers/usersManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/managers/usersManager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/router.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +74,7 @@
       <workItem from="1645722497255" duration="85000" />
       <workItem from="1645722617470" duration="248000" />
       <workItem from="1645722940666" duration="1169000" />
-      <workItem from="1645724402932" duration="27363000" />
+      <workItem from="1645724402932" duration="29000000" />
     </task>
     <servers />
   </component>
