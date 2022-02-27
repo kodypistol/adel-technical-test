@@ -34,7 +34,7 @@ Chacun d'entre eux s'occupent respectivement des datas des clients et des enseig
 ## ✅ Ce que j'ai réussi à faire
 - Créer un algorithme qui calcule le _nombre de points de fidélité total d'un utilisateur dans toutes les enseignes cumulées_ et qui l'assigne à un objet.
 - Créer un algorithme qui calcule le _nombre de points de fidélité total des différentes enseignes_ et qui l'assigne à un objet.
-- Répartir les données dans deux fichier .json distincts.
+- Répartir les données dans deux fichiers .json distincts.
 
 ## ❌ Ce que je n'ai pas (encore) réussi à faire
 - Créer une commande permettant de choisir le nombre d'utilisateurs et quelles données nous voulons afficher en console.
